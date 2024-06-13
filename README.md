@@ -32,3 +32,9 @@ This is a simple card matching game written in Python. The game allows a user to
 This game was created by [Mohammad Abbas].
 
 Enjoy playing the game!
+
+### Show your support
+
+Give a ⭐ if you like this!
+
+<a href="https://www.buymeacoffee.com/mohamadabb3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
